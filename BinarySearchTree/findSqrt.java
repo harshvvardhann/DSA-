@@ -1,4 +1,3 @@
-package BinarySearchTree;
 
 class findSqrt {
     int floorSqrt(int n) {

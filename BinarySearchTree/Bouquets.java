@@ -1,4 +1,4 @@
-package BinarySearchTree;
+
 class Bouquets {
     public static int getDays(int arr[],int m, int k,int mid){
         int count = 0;

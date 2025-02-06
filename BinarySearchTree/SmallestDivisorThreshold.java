@@ -1,4 +1,4 @@
-package BinarySearchTree;
+ 
 class SmallestDivisorThreshold {
     public boolean isPossible(int nums[],int k,int mid){
         int ans = 0;

@@ -1,4 +1,4 @@
-package BinarySearchTree;
+ 
 class implementLowerBound {
 
     static int findFloor(int[] arr, int k) {

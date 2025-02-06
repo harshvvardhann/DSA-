@@ -1,4 +1,4 @@
-package BinarySearchTree;
+ 
 
 class searchInsertPosition {
     public int searchInsert(int[] nums, int target) {

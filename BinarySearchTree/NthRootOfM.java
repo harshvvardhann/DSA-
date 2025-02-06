@@ -1,4 +1,4 @@
-package BinarySearchTree;
+ 
 class NthRootOfM {
     public int getAns(int mid,int n){
         int a = 1;

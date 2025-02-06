@@ -1,4 +1,4 @@
-package BinarySearchTree;
+ 
 class peakIndex {
     public int peakIndexInMountainArray(int[] nums) {
         int left = 0;

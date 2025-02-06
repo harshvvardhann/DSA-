@@ -1,4 +1,4 @@
-package BinarySearchTree;
+ 
 class searchInRotatedSorted {
     public int search(int[] nums, int target) {
         int left = 0;
