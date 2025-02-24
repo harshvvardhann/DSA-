@@ -1,4 +1,4 @@
-package ContestProblems;
+package ContestProblems.ContestProblems;
 class jump2 {
     public int jump(int[] nums) {
         int end = 0;

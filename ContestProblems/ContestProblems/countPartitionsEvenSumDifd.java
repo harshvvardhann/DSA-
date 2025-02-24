@@ -1,4 +1,4 @@
-package ContestProblems;
+package ContestProblems.ContestProblems;
 
 class countPartitionsEvenSumDifd {
     public static int countPartitions(int[] nums) {

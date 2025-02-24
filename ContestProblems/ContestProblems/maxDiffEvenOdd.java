@@ -1,4 +1,4 @@
-package ContestProblems;
+package ContestProblems.ContestProblems;
 
 import java.util.HashMap;
 import java.util.Map.Entry;

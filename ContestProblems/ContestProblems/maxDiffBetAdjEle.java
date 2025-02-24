@@ -1,4 +1,4 @@
-package ContestProblems;
+package ContestProblems.ContestProblems;
 
 class maxDiffBetAdjEle {
     public int maxAdjacentDistance(int[] nums) {

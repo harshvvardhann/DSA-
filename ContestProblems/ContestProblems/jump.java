@@ -1,4 +1,4 @@
-package ContestProblems;
+package ContestProblems.ContestProblems;
 class jump {
     public boolean canJump(int[] nums) {
         int maxReachable = 0;

@@ -1,4 +1,4 @@
-package ContestProblems;
+package ContestProblems.ContestProblems;
 class SumOfGoodNumbers {
     public int sumOfGoodNumbers(int[] nums, int k) {
         int sum = 0;

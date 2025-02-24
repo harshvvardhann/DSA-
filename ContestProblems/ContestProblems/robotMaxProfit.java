@@ -1,4 +1,4 @@
-package ContestProblems;
+package ContestProblems.ContestProblems;
 
 class robotMaxProfit {
     public int solve(int i, int j, int k, Integer[][][] dp, int[][] coins) {
