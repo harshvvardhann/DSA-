@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.SinglyLinkedList;
 class InsertAtEnd {
     class Node{
         int data;

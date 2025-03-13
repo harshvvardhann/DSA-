@@ -1,6 +1,5 @@
-package LinkedList;
-
-class countLength {
+package LinkedList.SinglyLinkedList;
+class searchKey {
     class Node{
         int data;
         Node next;
@@ -9,16 +8,14 @@ class countLength {
             this.next = null;
         }
     }
-    // Function to count nodes of a linked list.
-    public int getCount(Node head) {
-        // code here
-        int count = 0;
+    static boolean searchKe(int n, Node head, int key) {
+        // Code here
+        if(head.data == key) return true;
         Node temp = head;
         while(temp!=null){
-            count++;
+            if(temp.data == key) return true;
             temp = temp.next;
         }
-        return count;
+        return false;
     }
-}
-
+}       
