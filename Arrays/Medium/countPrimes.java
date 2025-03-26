@@ -16,7 +16,6 @@ class countPrimes {
                 }
             }
         }
-
         int count = 0;
         for(boolean num:check) if(num) count++;
         return count;
