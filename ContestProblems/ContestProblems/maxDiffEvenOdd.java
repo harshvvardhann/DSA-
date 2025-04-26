@@ -13,7 +13,6 @@ class maxDiffEvenOdd {
         int minEven = Integer.MAX_VALUE;
 
         for(Entry<Character, Integer> x:a.entrySet()){
-            int key = x.getKey();
             int value = x.getValue();
             if(value%2==1){
                 maxOdd = Math.max(maxOdd,value);

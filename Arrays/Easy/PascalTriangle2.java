@@ -1,5 +1,6 @@
 package Arrays.Easy;
 import java.util.ArrayList;
+import java.util.List;
 class PascalTriangle2 {
     public List<Integer> getRow(int rowIndex) {
         List<Integer> row = new ArrayList<>();

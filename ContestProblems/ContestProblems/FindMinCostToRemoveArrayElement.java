@@ -3,7 +3,6 @@ package ContestProblems.ContestProblems;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.PriorityQueue;
 
 class FindMinCostToRemoveArrayElement {
     public static int minCost(int[] nums) {

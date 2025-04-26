@@ -1,6 +1,5 @@
 package Arrays.Medium;
 
-import java.util.ArrayList;
 
 public class pb4and5MaximumSubarray {
 
