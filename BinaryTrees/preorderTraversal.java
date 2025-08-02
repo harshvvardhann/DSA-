@@ -1,7 +1,7 @@
 package BinaryTrees;
 import java.util.List;
 import java.util.ArrayList;
-class preorderTraversal {
+class PreorderTraversal {
     class TreeNode{
         TreeNode left;
         TreeNode right;

@@ -2,7 +2,7 @@ package BinaryTrees;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Stack;
-public class postOrderTraversalUsing2Stack {
+public class PostOrderTraversalUsing2Stack {
     class TreeNode{
         TreeNode left;
         TreeNode right;
