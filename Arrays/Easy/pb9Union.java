@@ -1,7 +1,6 @@
 package Arrays.Easy;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class pb9Union {
 
