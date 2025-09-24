@@ -28,5 +28,6 @@ class hashByArrayInteger {
             // fetching:
             System.out.println(hash[number]);
         }
+        sc.close();
     }
 }

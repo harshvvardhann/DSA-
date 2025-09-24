@@ -24,5 +24,6 @@ class hashByArrayCharacter {
             // fetch:
             System.out.println(hash[c - 'a']);
         }
+        sc.close();
     }
 }

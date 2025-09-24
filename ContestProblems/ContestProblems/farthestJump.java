@@ -1,5 +1,5 @@
 package ContestProblems.ContestProblems;
-class Solution {
+class farthestJump {
     public boolean canJump(int[] nums) {
         int maxReachable = 0;
         for (int i = 0; i < nums.length; i++) {

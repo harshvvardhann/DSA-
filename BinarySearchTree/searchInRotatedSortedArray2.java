@@ -1,4 +1,4 @@
- 
+package BinarySearchTree;
 
 class searchInRotatedSortedArray2 {
     public int findMin(int[] nums) {

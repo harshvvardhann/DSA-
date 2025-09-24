@@ -1,3 +1,4 @@
+package BinarySearchTree;
 class findPeakIn2Darray {
     int maxElement(int mat[][], int n, int m, int mid){
         int max = -1;

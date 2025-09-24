@@ -1,4 +1,5 @@
-class Solution {
+package BinarySearchTree;
+class SpiltMaxSubarraySum {
     int countPartitions(int nums[], int maxSum){
         int n = nums.length;
         int maxSubArraySum = 0;

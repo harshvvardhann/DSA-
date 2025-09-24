@@ -1,4 +1,4 @@
- 
+package BinarySearchTree; 
 
 class KthMissing {
     public int findKthPositive(int[] arr, int k) {

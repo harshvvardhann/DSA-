@@ -1,4 +1,4 @@
- 
+package BinarySearchTree;
 class firstAndLastOccurence {
     public static int lastOccurence(int arr[], int key){
         int left = 0;

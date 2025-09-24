@@ -1,3 +1,4 @@
+package BinarySearchTree;
 class Search2dMatirx {
     public boolean binarySearch(int [] a,int target){
         int low =0;

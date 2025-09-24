@@ -1,3 +1,6 @@
+package BinaryTrees;
+import java.util.HashMap;
+import java.util.Map;
 class BinaryFromInorderPreorder {
     class TreeNode{
         TreeNode left;

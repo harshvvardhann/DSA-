@@ -1,7 +1,8 @@
+package BinarySearchTree;
 import java.util.HashSet;
 import java.util.Set;
 
-class Solution {
+class IntersectionOfTwoArrays {
     public int[] intersection(int[] nums1, int[] nums2) {
         Set<Integer> set1 = new HashSet<>();
         for (int i : nums1) {

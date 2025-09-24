@@ -1,3 +1,4 @@
+package BinarySearchTree;
 class SearchIn2dMatrix2 {
     public boolean searchMatrix(int[][] matrix, int target) {
         int n = matrix.length;//no. of rows

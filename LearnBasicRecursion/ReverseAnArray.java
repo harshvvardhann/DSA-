@@ -1,7 +1,5 @@
 package LearnBasicRecursion;
 
-import java.util.Arrays;
-
 // 1. Brute Force Method (Using an Auxiliary Array)
 // public class ReverseAnArray {
 //     public static int[] reverseArray(int[] arr) {

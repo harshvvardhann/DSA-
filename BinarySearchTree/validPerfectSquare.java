@@ -1,3 +1,4 @@
+package BinarySearchTree;
 class validPerfectSquare {
     public boolean isPerfectSquare(int num) {
         long left = 1;

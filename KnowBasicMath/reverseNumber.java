@@ -27,6 +27,7 @@ public class reverseNumber {
         }
         // Print the reversed number.
         System.out.println(revNum);
+        scanner.close();
     }
 }
 

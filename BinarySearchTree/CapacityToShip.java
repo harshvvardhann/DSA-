@@ -1,3 +1,5 @@
+package BinarySearchTree;
+
 class Solution {
     public int getSum(int weights[]){
         int sum = 0;

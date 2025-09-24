@@ -1,4 +1,4 @@
- 
+package BinarySearchTree;
 class kokoEatingBanana {
     public int totalHours(int piles[], int k){
         int x = 0;

@@ -1,4 +1,4 @@
- 
+package BinarySearchTree;
 class sqrt {
     public static int mySqrt(int x) {
         int left = 1;
