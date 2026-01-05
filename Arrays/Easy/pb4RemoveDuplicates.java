@@ -11,12 +11,20 @@ public class pb4RemoveDuplicates {
                 j++;
             }
         }
+
+        while (j < arr.length) {
+            arr[j] = -1;
+            j++;
+        }
         return arr;
     }
 
     public static void main(String[] args) {
         int arr[] = { 1, 2, 2, 3, 4, 5, 6, 6, 7 };
         int arr1[] = removeDuplicates(arr);
+        for (int num : arr1) {
+            System.out.print(num + " ");
+        }
         System.out.println(arr1);
     }
 }

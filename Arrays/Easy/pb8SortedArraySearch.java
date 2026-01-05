@@ -17,6 +17,6 @@ public class pb8SortedArraySearch {
 
     public static void main(String[] args) {
         int arr[] = { 1, 2, 3, 4, 6, 7, 8 };
-        System.out.println(sortedArray(arr, 0, arr.length - 1, 14));            
+        System.out.println(sortedArray(arr, 0, arr.length - 1, 14));
     }
 }

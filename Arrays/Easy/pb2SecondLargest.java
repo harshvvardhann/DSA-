@@ -5,21 +5,20 @@ public class pb2SecondLargest {
 
         // Code for second largest
         int arr[] = { 1, 2, 4, 56, 7, 8, 9 };
-        // int largest = arr[0];
-        // int secondlargest = -1;
-        // for (int i = 0; i < arr.length; i++) {
-        // if (arr[i] > largest) {
-        // secondlargest = largest;
-        // largest = arr[i];
-        // } else if (arr[i] < largest && arr[i] > secondlargest) {
-        // secondlargest = arr[i];
-        // }
-        // }
-        // System.out.println(secondlargest);
-
-        
-        // Code for second largest and second smallest.
         int largest = arr[0];
+        int secondlargest = -1;
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] > largest) {
+                secondlargest = largest;
+                largest = arr[i];
+            } else if (arr[i] < largest && arr[i] > secondlargest) {
+                secondlargest = arr[i];
+            }
+        }
+        System.out.println(secondlargest);
+
+        // Code for second largest and second smallest.
+        // int largest = arr[0];
         int sec = Integer.MIN_VALUE;
         int smallest = Integer.MAX_VALUE;
         int secsm = Integer.MAX_VALUE;
